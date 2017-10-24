@@ -1,2 +1,5 @@
 # hello-word
-a new respirectory
+hi humans
+am evans
+love coding
+yes gonna be difficult i know
